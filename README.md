@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Input component</h1>
+<h1 align="center">windbnb</h1>
 
 
 <!-- TABLE OF CONTENTS -->
